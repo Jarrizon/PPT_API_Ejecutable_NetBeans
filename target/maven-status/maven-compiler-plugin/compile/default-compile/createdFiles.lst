@@ -1,0 +1,10 @@
+com\ppt\api\service\GameService.class
+com\ppt\api\JuegoGUI1.class
+com\ppt\api\PiedraPapelTijeraApiApplication.class
+com\ppt\api\model\Resultado.class
+com\ppt\api\controller\RankingController.class
+com\ppt\api\model\Jugador.class
+com\ppt\api\controller\JugadorController.class
+com\ppt\api\controller\JuegoController.class
+com\ppt\api\model\Ronda.class
+com\ppt\api\model\Movimiento.class
